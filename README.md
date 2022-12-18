@@ -1,4 +1,4 @@
-# Eigenface For Recognition
+# Eigenface For Recognition ☕
 This is repo for CSS 503 course materials and practices I did. 
 The objective of research was to create a computational facial recognition model that is quick, comparatively easy to use, and accurate in confined spaces like an office or a home. The method also fits with early research in the physiology and psychology of face recognition and is biologically practicable.
 The method is based on a decomposition of face photos into a limited number of distinctive feature images termed "eigenfaces," which can be regarded as the main elements of the initial training set of face images. A new image is projected into the area covered by the eigenfaces ("face space"), and the face is then classified by comparing its position there to the positions of known people. The method is faster and easier to use, has a higher learning capacity, and is less sensitive to little or gradual changes in the facial image than previous face recognition techniques. 
