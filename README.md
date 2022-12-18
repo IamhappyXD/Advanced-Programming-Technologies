@@ -19,5 +19,5 @@ When there is spare additional processing capacity, these activities can occasio
 5. If the same unknown face appears often, determine its
 
 I applied Eigenface recognition with two method and they can be found in seperate files:
-1. [a relative link](Eigenfaces_method1.ipynb)
-2. [a relative link](Eigenfaces_method2.ipynb)
+1. [Method 1](Eigenfaces_method1.ipynb)
+2. [Method 2](Eigenfaces_method2.ipynb)
